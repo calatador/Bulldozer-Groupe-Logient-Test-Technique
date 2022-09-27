@@ -1,0 +1,24 @@
+{
+    "Dashboard" : "Tableau de bord",
+    "Short your link" : "Raccourcissez votre lien",
+    "Short" : "Raccourcissez",
+    "ORIGINAL URL" : "Url d'origine",
+    "SHORT URL" : "Url courte",
+    "VISITS" : "visites",
+    "ACTIONS" : "actions",
+    "stats" : "Statistiques",
+    "delete" : "effacer",
+    "Short Url removed with success" : "URL courte supprimée avec succès",
+    "Your Short url:" : "Votre URL courte est : ",
+    "The original url must be a valid URL" : "L'URL d'origine doit être une URL valide.",
+    "The original url must be a valid URL.": "L'URL d'origine doit être une URL valide.",
+    "You have already reached the maximum of 5 short URLs" : "Vous avez déjà atteint le maximum de 5 URL courtes",
+    "Access log" : "Journal d'accès",
+    "Access time" : "Temps d'accès" ,
+    "country" : "pays",
+    "user" : "utilisateur",
+    "visitor" : "visiteur"
+
+
+
+}
